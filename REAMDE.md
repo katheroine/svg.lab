@@ -5,3 +5,4 @@ From [MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorials/SVG_from_s
 1. [Intro](./example/intro/)
 2. Positions
     1. [Positions](./example/positions/positions.svg)
+    2. [Zoom](./example/positions/zoom.svg)
