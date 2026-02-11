@@ -1,0 +1,8 @@
+<svg version="1.1"
+    width="300" height="300"
+    xmlns="http://www.w3.org/2000/svg">
+
+    <rect x="20" y="20" width="260" height="130" fill="purple" />
+    <rect x="20" y="150" width="260" height="130" fill="navy" />
+    <rect x="100" y="100" width="100" height="100" rx="10" ry="10" fill="aqua" />
+</svg>

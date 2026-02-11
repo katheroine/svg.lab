@@ -6,3 +6,5 @@ From [MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorials/SVG_from_s
 2. Positions
     1. [Positions](./example/positions/positions.svg)
     2. [Zoom](./example/positions/zoom.svg)
+3. Shapes
+    1. [Rectangle](./example/shapes/rectangle.svg)
