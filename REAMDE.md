@@ -8,3 +8,4 @@ From [MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorials/SVG_from_s
     2. [Zoom](./example/positions/zoom.svg)
 3. Shapes
     1. [Rectangle](./example/shapes/rectangle.svg)
+    2. [Circle](./example/shapes/circle.svg)
