@@ -1,0 +1,11 @@
+<svg version="1.1"
+    width="300" height="300"
+    xmlns="http://www.w3.org/2000/svg">
+
+    <line x1="10" x2="290" y1="10" y2="290" stroke="grey" stroke-width="2" />
+    <line x1="290" x2="10" y1="10" y2="290" stroke="grey" stroke-width="2" />
+    <line x1="150" x2="150" y1="10" y2="70" stroke="yellow" stroke-width="4" />
+    <line x1="150" x2="150" y1="230" y2="290" stroke="yellow" stroke-width="4" />
+    <line x1="10" x2="70" y1="150" y2="150" stroke="yellow" stroke-width="4" />
+    <line x1="230" x2="290" y1="150" y2="150" stroke="yellow" stroke-width="4" />
+</svg>
