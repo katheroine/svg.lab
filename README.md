@@ -11,3 +11,4 @@ From [MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorials/SVG_from_s
     2. [Circle](./example/shapes/circle.svg)
     3. [Ellipse](./example/shapes/ellipse.svg)
     4. [Line](./example/shapes/line.svg)
+    5. [Polyline](./example/shapes/polyline.svg)

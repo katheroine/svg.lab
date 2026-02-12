@@ -1,0 +1,12 @@
+<svg version="1.1"
+    width="300" height="300"
+    xmlns="http://www.w3.org/2000/svg">
+
+    <polyline points="150 10, 290 150, 150 290, 10 150, 150 10" stroke="orange" fill="black" stroke-width="3" />
+    <polyline points="10 10, 290 290" stroke="grey" stroke-width="2" />
+    <polyline points="10 290, 290 10" stroke="grey" stroke-width="2" />
+    <polyline points="50 10, 150 110, 250 10" stroke="coral" fill="none" stroke-width="3" />
+    <polyline points="50 290, 150 190, 250 290" stroke="coral" fill="none" stroke-width="3" />
+    <polyline points="10 50, 110 150, 10 250" stroke="coral" fill="none" stroke-width="3" />
+    <polyline points="290 50, 190 150, 290 250" stroke="coral" fill="none" stroke-width="3" />
+</svg>
